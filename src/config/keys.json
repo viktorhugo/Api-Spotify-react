@@ -1,0 +1,7 @@
+{
+    "data":{
+        "CLIENT_ID":"f0805de5e37b4013b0fe8dcb2679039a",
+        "REDIRECT_URI":"http://localhost:9000/callback",
+        "CLIENT_SECRET":"83ed987300dc4467952798b2a88e93d1"
+    }
+}
