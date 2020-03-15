@@ -28,7 +28,7 @@
   "dependencies": {
     "express-session": "^1.16.1",
     "hbs": "^4.0.4",
-    "mongoose": "^5.5.13",
+    "mongoose": "^5.7.5",
     "passport": "^0.4.0",
     "passport-spotify": "^1.0.1",
     "spotify-web-api-node": "^4.0.0"
